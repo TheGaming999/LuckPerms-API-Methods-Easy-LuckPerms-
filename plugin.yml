@@ -1,0 +1,9 @@
+name: LuckPermsAPIMethods
+version: 1.0
+main: me.luckpermsapimethods.LuckPermsAPIMethods
+author: TheGaming999
+depend: [LuckPerms]
+commands:
+  lpam:
+    usage: /<command>
+    aliases: [luckpermsapimethods, luckpermsapi, easyluckperms]
